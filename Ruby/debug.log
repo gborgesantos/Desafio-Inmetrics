@@ -1,0 +1,12 @@
+[1107/200045.696:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1107/200542.615:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1107/200542.615:ERROR:exception_snapshot_win.cc(99)] thread ID 7596 not found in process
+[1107/200542.958:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[1107/200542.958:ERROR:exception_snapshot_win.cc(99)] thread ID 9892 not found in process
+[1109/152607.171:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Guilherme Borges\AppData\Local\Temp\scoped_dir11912_1553691826\Crashpad\attachments\8c2e85f2-7d20-4306-b487-0d18ced0a3cf: O sistema não pode encontrar o caminho especificado. (0x3)
+[1109/190844.492:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Guilherme Borges\AppData\Local\Temp\scoped_dir8636_263123145\Crashpad\attachments\80a63926-6e86-499e-a957-8f938e97d383: O sistema não pode encontrar o caminho especificado. (0x3)
+[1109/191009.201:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Guilherme Borges\AppData\Local\Temp\scoped_dir5148_1909132863\Crashpad\attachments\72dce275-4459-4e07-92bc-5df5d2150ed9: O sistema não pode encontrar o caminho especificado. (0x3)
+[1109/194121.811:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1109/194121.906:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[1109/194345.426:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1109/194345.426:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
